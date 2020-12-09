@@ -1,6 +1,6 @@
 # Welcome to the code repository for Practical Fairness
 
-### This is the code repository that pairs with Practical Fairness (to be published December 2020). I expect all code samples to be posted by mid December if not sooner. You can contact me at Aileen A Nielsen at my gmail address. My email address is also posted in many places around the web and in the bok.
+### This is the code repository that pairs with Practical Fairness (published December 2020). You can contact me at Aileen A Nielsen at my gmail address. My email address is also posted in many places around the web and in the book.
 
 ### Thank you in advance for comments, corrections, and enlargments you may wish to add to the repo or recommend via direct communication.
 
